@@ -16,6 +16,8 @@ class List_Controller
 {
     private $templateTitle = 'Annuaire \ Vue liste';
     private $page = 'list';
+    private $test = '';
+
 
     /**
      * Fonction principale lancee par router.php
